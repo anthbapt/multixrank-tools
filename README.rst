@@ -14,11 +14,11 @@ You can find here the scripts used in the paper and adaptable for your own appli
 
 .. code-block:: bash
 
-        1: Scripts for the evaluation
-            * Leave-One-Out cross validation
-            * Link prediction
+        1: Scripts *for* the evaluation
+            - Leave-One-Out cross validation
+            - Link prediction
 
-        2: Scripts for the parameter exploration
+        2: Scripts *for* the parameter exploration
         
         3: Further scripts will be added soon (07/11/2022)
 
