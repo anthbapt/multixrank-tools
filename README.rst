@@ -18,6 +18,6 @@ We propose here the codes used in the paper in an adaptable way to develop your 
 
         2: The parameter exploration
         
-        3: Further codes will be added soon (before 7 November 2022)
+        3: Further codes will be added soon (07/11/2022)
 
 It is to note that the codes use the multiprocessing python library. You can specify the number of threads dedicated to the computation.
