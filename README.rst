@@ -12,13 +12,13 @@ https://doi.org/10.1038/s42005-022-00937-9
 
 You can find here the scripts used in the paper and adaptable for your own applications of MultiXrank:
 
-1: Scripts for the evaluation (**evaluation**)
+   1: Scripts for the evaluation (**evaluation**)
 
-    * Leave-One-Out cross validation
-    * Link prediction
+       * Leave-One-Out cross validation
+       * Link prediction
 
-2: Scripts for the parameter exploration (**exploration**)
-        
-3: Further scripts will be added soon (07/11/2022)
+   2: Scripts for the parameter exploration (**exploration**)
+
+   3: Further scripts will be added soon (07/11/2022)
 
 The scripts use the multiprocessing python library. You can specify the number of threads dedicated to the computation.
