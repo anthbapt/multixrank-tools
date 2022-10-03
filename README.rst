@@ -13,6 +13,7 @@ https://doi.org/10.1038/s42005-022-00937-9
 We propose here the codes used in the paper in an adaptable way to develop your own application of MultiXrank:
 
 .. code-block:: bash
+
         1: The evaluation 
 
         2: The parameter exploration
