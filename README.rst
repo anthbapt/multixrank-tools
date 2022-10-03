@@ -13,6 +13,7 @@ https://doi.org/10.1038/s42005-022-00937-9
 You can find here the scripts used in the paper and adaptable for your own applications of MultiXrank:
 
 1: Scripts for the evaluation (**evaluation**)
+
     * Leave-One-Out cross validation
     * Link prediction
 
