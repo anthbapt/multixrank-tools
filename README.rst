@@ -14,7 +14,6 @@ You can find here the scripts used in the paper and adaptable for your own appli
 
 .. code-block:: bash
         1: Scripts for the evaluation (**evaluation**)
-        .. hlist::
             * Leave-One-Out cross validation
             * Link prediction
 
